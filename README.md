@@ -9,7 +9,7 @@
  
 ---
 <!-- Statistics -->
-<a href="#"><img align="right" width="50%" alt="Github" src="https://github-readme-stats.vercel.app/api?username=Essohpee&theme=algolia&show_icons=true&count_private=true&icon_color=95ccff&border_radius=20&include_all_commits=true" /></a>
+<a href="#"><img align="right" width="50%" alt="Github" src="https://github-readme-stats.vercel.app/api?username=Essohpee&theme=algolia&show_icons=true"/></a>
 
 
 * 💻 I’m currently working on [Personal Projects 🤲🏻]
