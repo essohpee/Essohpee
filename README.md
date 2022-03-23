@@ -1,5 +1,5 @@
  
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fredoka+Onec&size=30&center=true&width=600&lines=Hello+%F0%9F%91%8B;I'm+Samuel+Overs+Pelham;A+digital+nomad;Feel+free+to+look+around;And++reach+out+if+needed.."></div>
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed&size=30&center=true&width=600&lines=Hello+%F0%9F%91%8B;I'm+Samuel+Overs+Pelham;A+digital+nomad;Feel+free+to+look+around;And++reach+out+if+needed.."></div>
 
 <br> 
  
@@ -9,7 +9,7 @@
  
 ---
 <!-- Statistics -->
-<a href="#"><img align="right" width="50%" alt="Github" src="https://github-readme-stats.vercel.app/api?username=Essohpee&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true" /></a>
+<a href="#"><img align="right" width="50%" alt="Github" src="https://github-readme-stats.vercel.app/api?username=Essohpee&theme=default_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true" /></a>
 
 
 * 💻 I’m currently working on [Personal Projects 🤲🏻]
