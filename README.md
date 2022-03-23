@@ -1,5 +1,5 @@
  
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=League+Gothic&size=30&lines=Hi+there+%F0%9F%91%8B;I'm+Samuel+Overs+Pelham;A+digital+nomad;Feel+free+to+look+around;And++reach+out+if+needed."></div>
+<div width="100%" align="center"><img src="https://readme-typing-svg.herokuapp.com?font=League+Gothic&size=30&lines=Hi+there+%F0%9F%91%8B;I'm+Samuel+Overs+Pelham;A+digital+nomad;Feel+free+to+look+around;And++reach+out+if+needed."></div>
 
 <br> 
  
