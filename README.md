@@ -27,7 +27,7 @@ If you have questions, or you have a project I'm available for freelancing and a
 you can always contact me at: <br>
 
 <!-- Social Links -->
-<div align-items= "flex-start">
+<div align= "center">
  <div>
   <a href="mailto:abdelrahmanbayoumi1@gmail.com">
    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
