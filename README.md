@@ -4,7 +4,7 @@
 
 <br> 
  
-<p align="center"> <a href="https://github.com/AbdelrahmanBayoumi/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=AbdelrahmanBayoumi.AbdelrahmanBayoumi"></a></p>
+<p align="center"> <a href="https://github.com/Essohpee/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=Essohpee.Essohpee"></a></p>
 
 
  
@@ -30,12 +30,13 @@ you can always contact me at: <br>
 <!-- Social Links -->
 <div align="center">
 <a href="mailto:abdelrahmanbayoumi1@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/abdelrahman-bayoumi/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ 
+<a href="https://www.linkedin.com/in/abdelrahman-bayoumi/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-    badge&logo=linkedin&logoColor=white"/>
+ </a>
+ 
 <a href="https://twitter.com/Abdelrahman_B1"><img alt="Twitter" src="https://img.shields.io/badge/Abdelrahman_B1-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
 </a>
-<a href="https://t.me/AbdelrahmanBayoumi"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
- <a href="https://www.youtube.com/channel/UCuj-PqkIKq8of9bDM5B2JpA"><img alt="YouTube" src="https://img.shields.io/badge/Youtube Chennel-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
+ 
 </div>
 
 
