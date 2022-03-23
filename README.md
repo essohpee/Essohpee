@@ -1,5 +1,5 @@
  
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=500&lines=Hi+there+%👋+;I'm+Samuel+ Overs+Pelham;Open+source+enthusiast;Feel+free+to+look+around+%F0%9F%91%80;Reach+out+if+you+need+help!+%F0%9F%92%AC"></div>
+<div align="center"><img src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+there+%F0%9F%91%8B;I'm+Samuel+Overs+Pelham;A+digital+nomad;Feel+free+to+look+around;And++reach+out+if+needed.)](https://git.io/typing-svg)"></div>
 
 <br> 
  
