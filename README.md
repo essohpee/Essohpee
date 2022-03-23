@@ -34,7 +34,7 @@ you can always contact me at: <br>
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
    
   <a href="https://twitter.com/Abdelrahman_B1">
-   <img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social">/></a>
+  <img alt="Twitter" src="https://img.shields.io/badge/Abdelrahman_B1-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white</a>
   
   
 </div>
