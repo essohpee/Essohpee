@@ -28,30 +28,21 @@ you can always contact me at: <br>
 
 <!-- Social Links -->
 <div align= "center">
- <div>
+  
   <a href="mailto:abdelrahmanbayoumi1@gmail.com">
    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
- <div/>
-
-  <div>
+  
    <a href="https://www.linkedin.com/in/abdelrahman-bayoumi/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
-  <div/>
- 
- <div>
-  <a href="https://twitter.com/Abdelrahman_B1">
-   <img alt="Twitter" src="https://img.shields.io/badge/Abdelrahman_B1-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
- <div/> 
-  
-  <div>
-  <a href="https://twitter.com/Abdelrahman_B1">
-   <img alt="Instagram" src="https://img.shields.io/badge/Abdelrahman_B1-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
- <div/> 
    
-   <div>
   <a href="https://twitter.com/Abdelrahman_B1">
    <img alt="Twitter" src="https://img.shields.io/badge/Abdelrahman_B1-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
- <div/> 
+  
+  <a href="https://twitter.com/Abdelrahman_B1">
+   <img alt="Instagram" src="https://img.shields.io/badge/Abdelrahman_B1-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a> 
+   
+  <a href="https://twitter.com/Abdelrahman_B1">
+   <img alt="Twitter" src="https://img.shields.io/badge/Abdelrahman_B1-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a> 
 </div>
 
 
