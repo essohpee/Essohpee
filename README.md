@@ -20,6 +20,13 @@
 
 <br> 
 
+## 🙋‍♂️ Most Used Tools
+
+
+<img alt="Gmail" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></a>
+
+ ---
+
 ## 🙋‍♂️ Connect with me
 If you have questions, or you have a project I'm available for freelancing and also I'm looking for a new opportunities,
 you can always contact me at: <br>
