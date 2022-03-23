@@ -12,9 +12,9 @@
 <a href="#"><img align="right" width="50%" alt="Github" src="https://github-readme-stats.vercel.app/api?username=Essohpee&theme=algolia&show_icons=true"/></a>
 
 
-* 💻 I’m currently working on [Personal Projects 🤲🏻]
+* 👨‍💻 I’m currently working on [Personal Project🏻]
 
-* 📚 I’m currently learning Full-Stack devement.
+* 📚 I’m currently learning Full-Stack development.
 
 * 💬 Ask me about javaStript and Java.
 
@@ -34,7 +34,7 @@ you can always contact me at: <br>
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
    
   <a href="https://twitter.com/Abdelrahman_B1">
-   <img alt="Twitter" src="https://img.shields.io/badge/Abdelrahman_B1-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+   <img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social">/></a>
   
   
 </div>
