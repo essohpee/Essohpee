@@ -1,5 +1,5 @@
  
-<div align="center"><img src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+there+%F0%9F%91%8B;I'm+Samuel+Overs+Pelham;A+digital+nomad;Feel+free+to+look+around;And++reach+out+if+needed.)](https://git.io/typing-svg)"></div>
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi+there+%F0%9F%91%8B;I'm+Samuel+Overs+Pelham;A+digital+nomad;Feel+free+to+look+around;And++reach+out+if+needed.)](https://git.io/typing-svg"></div>
 
 <br> 
  
@@ -27,7 +27,7 @@ If you have questions, or you have a project I'm available for freelancing and a
 you can always contact me at: <br>
 
 <!-- Social Links -->
-<div align="center">
+<div align="center"; display="flex">
 <a href="mailto:abdelrahmanbayoumi1@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
  
 <a href="https://www.linkedin.com/in/abdelrahman-bayoumi/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-    badge&logo=linkedin&logoColor=white"/>
