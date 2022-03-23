@@ -9,7 +9,7 @@
  
 ---
 <!-- Statistics -->
-<a href="#"><img align="right" width="50%" alt="Github" src="https://github-readme-stats.vercel.app/api?username=Essohpee&theme=default_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true" /></a>
+<a href="#"><img align="right" width="50%" alt="Github" src="https://github-readme-stats.vercel.app/api?username=Essohpee&theme=prussin&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true" /></a>
 
 
 * 💻 I’m currently working on [Personal Projects 🤲🏻]
