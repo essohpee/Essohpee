@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Java, Python**
 
-- 📫 How to reach me **devsop.0224@hotmail.com**
+- 📫 How to reach me **devsop.0224@hotmail.com/ pelham4lib.2018@gmail.com**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=essohpee&show_icons=true&locale=en&layout=compact" alt="essohpee" /></p>
 
