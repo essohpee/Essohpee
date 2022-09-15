@@ -1,4 +1,4 @@
- <h1 align="center">Hi👋, I'm Samuel</h1>
+ <h1 align="center">Hi👋🏿, I'm Samuel</h1>
 <h3 align="center">A passionate software engineer👨🏿‍💻 (Backend developer)</h3>
 
 - 🌱 I’m currently learning **Django**
