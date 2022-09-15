@@ -1,12 +1,12 @@
  <h1 align="center">Hi 👋, I'm Samuel</h1>
-<h3 align="center">A passionate software engineer (backend developer)</h3>
+<h3 align="center">A passionate software engineer (Backend developer)</h3>
 
 - 🌱 I’m currently learning **Django**
 
 - 💬 Ask me about **Java, Python**
 
 - 📫 How to reach me **devsop.0224@hotmail.com**
--
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=essohpee&show_icons=true&locale=en&layout=compact" alt="essohpee" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -14,7 +14,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=essohpee&show_icons=true&locale=en" alt="essohpee" /></p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="right">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/essohpee_231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="essohpee_231" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/samuel overs pelham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel overs pelham" height="30" width="40" /></a>
