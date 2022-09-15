@@ -12,7 +12,7 @@
 
 * 📚 I’m currently learning Full-Stack development.
 
-* 💬 Ask me about javaStript and Java.
+* 💬 Ask me about Python and Java.
 
 ---
 <br>
