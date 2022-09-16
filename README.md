@@ -1,5 +1,5 @@
  <h1 align="center">Hi👋🏿, I'm Samuel</h1>
-<h3 align="center">A passionate software engineer👨🏿‍💻 (Backend developer)</h3>
+<h3 align="center">A passionate software engineer👨🏿‍💻 (Backend developer) I love to learn more and more about the new technologies of this new world.</h3>
 
 - 🔭 I am studying for a bachelor's degree in **Computer Science**
 
