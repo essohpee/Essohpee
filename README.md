@@ -3,7 +3,7 @@
 
 - 🔭 I am studying for a bachelor's degree in **Computer Science**
 
-- 💬 Ask me about ** JavaScript，Java, Python**
+- 💬 Ask me about **JavaScript，Java， Python**
 
 - 📫 How to reach me **devsop.0224@hotmail.com/ pelham4lib.2018@gmail.com**
 
