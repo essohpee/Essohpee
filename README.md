@@ -3,7 +3,7 @@
 
 - 🔭 Graduated with a bachelor's in **computer science** 
 
-- 💬 Ask me about **Java， Python**
+- 💬 Ask me about **Java，Python**
 
 - 📫 How to reach me **devsop.0224@hotmail.com/ pelham4lib.2018@gmail.com**
 
